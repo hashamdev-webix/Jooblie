@@ -26,6 +26,9 @@ dist-ssr
 
 # Documentation for external developers (not part of the project)
 docs/flutter-api/
+VERCEL_DEPLOYMENT.md
+QUICK_DEPLOY.md
+CHANGES_FOR_VERCEL.md
 
 # Backend
 backend/node_modules/
